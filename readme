@@ -1,0 +1,7 @@
+This repository contains my work when I was a masters student at UNLV. This was a project 
+for my time series analysis class where I performed model fitting and spectral analysis for
+the AMD and Intel April 2020 to April 2021 stock datasets. I fit several ARIMA models to 
+determine the model of best fit. After that, I provide forecasted the ending stock prices
+for the next 5 market days. There are accompanying pictures. Afterwards, I compared both
+datasets to determine any correlations and periodic behaviors. The periodograms suggested
+that there was a lack of seasonal trends.
